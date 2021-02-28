@@ -6,6 +6,10 @@ header {
     border-bottom-color:#CCCCCC;
     border-bottom-width:1px;
 }
-img {
-    vertical-align:middle;
+.logo {
+    height: 100%;
+    width: 142%;
+    margin-left: 20px;
+    background-repeat:no-repeat;
+    background-image:url('../images/logo.png');
 }
