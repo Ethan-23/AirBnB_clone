@@ -1,0 +1,11 @@
+header {
+    background-color:white;
+    height:70px;
+    width:100%;
+    border-bottom-style:solid;
+    border-bottom-color:#CCCCCC;
+    border-bottom-width:1px;
+}
+img {
+    vertical-align:middle;
+}
